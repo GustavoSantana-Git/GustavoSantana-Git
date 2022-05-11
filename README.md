@@ -2,7 +2,7 @@ Gustavo Santana
 
 
 - 🔭 Atualmente trabalho com testes
-- 🌱 Estudando Node.JS e ReactJS
+- 🌱 Estudando Node.JS e React
 - 📚 6° Semestre ciência da computação - UniCeub
 
 <div>
