@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavosantana-git&label=Profile%20views&color=0e75b6&style=flat" alt="gustavosantana-git" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**, **Typescript** and *Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GustavoSantana-Git?tab=repositories](https://github.com/GustavoSantana-Git?tab=repositories)
 
